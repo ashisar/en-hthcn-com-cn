@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashisar.github.io/en-hthcn-com-cn/sitemap.xml
